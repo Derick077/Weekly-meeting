@@ -8,3 +8,5 @@ Week2————Contrastive Multiview Attribute Graph Clustering With Adaptive 
 Week3————Motif-Based Contrastive Learning for Community Detection(MotifCC)
    
 Week4————Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective(Magi)
+
+Week5————Community detection based on unsupervised attributed network embedding(CBDNE)
